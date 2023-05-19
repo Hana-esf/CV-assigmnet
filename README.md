@@ -1,3 +1,3 @@
 # CV-assigmnet
-### Advanced Programming lad assigmnet. 
+### Advanced Programming Lab assigmnet. 
 #### this is a test CV just for this assigmnet.
